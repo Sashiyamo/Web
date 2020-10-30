@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8" name="keywords" content="учёба, ИТМО, Саня" name="description" content="Сайт - визитка студента 3 курса университета ИТМО"/>
 <title>Сайт-визитка</title>
-<link rel="stylesheet" href="style.css" type="text/css">
 </head>
   <body>
     <header>
@@ -57,7 +56,8 @@
       </ul>
       </dl>
       </div>
-      <div style="float: right; width: 47.8%;">
+      <container>
+      <div style="float: left; width: 47.8%;">
       <h4>Тотемный ASCII Чаризард:</h4>
       <pre>
       <p>                 ."-,.__
@@ -102,7 +102,7 @@
       </p>
       </pre>
       </div>
-      <div style="float: left; width: 49%;">
+      <div style="float: right; width: 49%;">
       <h4>Код за который не стыдно:</h4>
       <pre>
       <q>В проекте речь шла про клинт-серверное 
@@ -175,9 +175,11 @@ app.listen(PORT, () => {
       </dl>
       </pre>
       </div>
+      </container>
     </main>
     <footer>
-      <div style="float: left; width: 49%;">
+      <container>
+      <div style="float: left; width: 47.8%;">
       <h4>Как со мной связаться:</h4>
       <pre>
       <address>Web programming Lab_1
@@ -187,6 +189,13 @@ app.listen(PORT, () => {
 <a1 href="mailto:chatt-171@yandex.ru">chatt-171@yandex.ru</a1></address>
       </pre>
       </div>
+      <div style="float: right; width: 49%;">
+      <h4>Места где хочу побывать</h4>  
+      <img src="https://travel.matrix-n.ru/wp-content/uploads/2019/06/CJXH_Japan_Nachi_Nachi-Falls_189118511-1.jpg" alt="Japan" width="235" height="170"/>
+      <img src="https://funart.pro/uploads/posts/2019-11/1573388237_niagarskij-vodopad-kanada-ssha-11.jpg" alt="Niagara" width="235" height="170"/>
+      <img src="https://i.imgur.com/oUI7eSp.jpg" alt="Bremen" width="235" height="170"/>
+      </div>
+      </container>
     </footer>      
   </body>
 </html>

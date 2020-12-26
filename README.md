@@ -35,3 +35,4 @@
 
 ## Лабораторная работа №8 (Локальный доступ)
 + Условие (https://www.dropbox.com/sh/zqjdjy1duxggtbr/AAAuxBj9bFPq8C65Wl2FKoPBa?dl=0&preview=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0+8.pdf)
++ Папочка lab8
